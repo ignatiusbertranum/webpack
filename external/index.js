@@ -1,0 +1,1 @@
+console.log('Hola mundo!, desde Webpack en webpack.confg.js')
